@@ -1,6 +1,4 @@
-Here's a humorous problem that demonstrates the weather behavior modeled by your Markov chain:
 
----
 
 **Problem: The Great Weather Conspiracy**
 
@@ -24,7 +22,3 @@ Imagine you're a conspiracy theorist living in a small town where the weather se
 - If your simulation shows an unexpected run of sunny days, argue how this could be the secret society's attempt to lull the town into a false sense of security before unleashing a week-long rain fest.
 
 **Note:** Remember to present your findings with enough humor and skepticism to keep the SWAC members intrigued but not alarmed. After all, no one wants to start a panic over a potentially weather-controlling cat. 
-
----
-
-This problem humorously frames the Markov chain's behavior in a way that could be both entertaining and illustrative of the model's predictions.
